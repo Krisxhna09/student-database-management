@@ -23,7 +23,7 @@ On Linux or macOS, use `-o student-database` instead of `-o student-database.exe
 ## Run
 
 ```sh
-./student-database.exe
+student-database.exe
 ```
 
 The app creates `students.dat` in the folder from which it is launched. This file contains your local records and is intentionally excluded from Git.
